@@ -1,3 +1,2 @@
-# corsera-test
-Coursera test repository
-Hello World
+Hello Dias and VS
+I am from GitHub
